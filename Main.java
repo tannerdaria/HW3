@@ -30,6 +30,7 @@ class Main {
 
     // things to juggle this semester (weekly)
 
+/*
     int work = 24; //total work hours
     int inClass = 15; //total credit hours
     int busy = 39; //total hours busy
@@ -45,7 +46,7 @@ class Main {
      if (busy == 39){
        System.out.println ("All things complete");
      }
-    
+ */   
     
 
   }
